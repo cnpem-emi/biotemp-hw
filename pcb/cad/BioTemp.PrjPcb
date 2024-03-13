@@ -66,6 +66,23 @@ GenerateClassCluster=0
 DocumentUniqueId=PQHZOLUF
 
 [Document2]
+DocumentPath=..\..\..\..\..\Downloads\1776275-2\TE_1776275-2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KBTTWXSW
+
+[Document3]
 DocumentPath=..\..\..\lib_altium\libs\libs\BioTempLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document4]
+DocumentPath=..\..\..\..\..\Downloads\1776275-2\1776275-2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PMWBFLSN
+
+[Document5]
 DocumentPath=..\..\..\lib_altium\libs\libs\BioTempSchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,9 +131,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ATTPRNVL
 
-[Document4]
+[Document6]
 DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H4020FS0016.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document7]
 DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H-4020F-S0016.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,9 +165,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDEZHILL
 
-[Document6]
+[Document8]
 DocumentPath=BioTemp_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMVGUCML
 
-[Document7]
+[Document9]
 DocumentPath=..\..\..\lib_altium\libs\libs\HLKPM03.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document10]
 DocumentPath=..\..\..\lib_altium\libs\libs\HLK-PM03.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,11 +216,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BioTemp\Design Rule Check - BioTemp_PCB.html
-DItemRevisionGUID=
+DocumentUniqueId=AKYOKMZM
 
 [Configuration1]
 Name=Sources
