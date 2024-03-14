@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IEUMIGKL
 
 [Document4]
 DocumentPath=..\..\..\..\..\Downloads\1776275-2\1776275-2.SchLib
@@ -217,6 +217,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKYOKMZM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BioTemp\Design Rule Check - BioTemp_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
