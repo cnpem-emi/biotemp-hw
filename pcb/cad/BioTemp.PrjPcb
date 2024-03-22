@@ -32,7 +32,6 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -67,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PQHZOLUF
 
 [Document2]
-DocumentPath=..\..\..\..\..\Downloads\1776275-2\TE_1776275-2.PcbLib
+DocumentPath=..\..\..\lib_altium\libs\libs\BioTempLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,26 +80,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KBTTWXSW
+DocumentUniqueId=IEUMIGKL
 
 [Document3]
-DocumentPath=..\..\libs\BioTempLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\..\..\..\..\Downloads\1776275-2\1776275-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,8 +99,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMWBFLSN
 
-[Document5]
-DocumentPath=..\..\libs\BioTempSchLib.SchLib
+[Document4]
+DocumentPath=..\..\..\lib_altium\libs\libs\BioTempSchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,10 +114,27 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ATTPRNVL
+
+[Document5]
+DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H4020FS0016.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVKKUURB
 
 [Document6]
-DocumentPath=..\..\libs\PEC11H4020FS0016.PcbLib
+DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H-4020F-S0016.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,27 +148,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDEZHILL
 
 [Document7]
-DocumentPath=..\..\libs\PEC11H-4020F-S0016.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=BioTemp_PCB.PcbDoc
+DocumentPath=PCB_ESP32_module.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,8 +167,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMVGUCML
 
+[Document8]
+DocumentPath=..\..\libs\HLKPM03.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document9]
-DocumentPath=..\..\..\libs\libs\HLKPM03.PcbLib
+DocumentPath=..\..\libs\HLK-PM03.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,24 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\..\libs\libs\HLK-PM03.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=..\..\libs\ESP32 S2 Mini.SchLib
+DocumentPath=..\..\..\lib_altium\ESP32 S2 Mini.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,8 +218,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODDMUWIB
 
-[Document12]
-DocumentPath=..\..\libs\ESP32 S2 Mini.PcbLib
+[Document11]
+DocumentPath=..\..\..\lib_altium\ESP32 S2 Mini.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,25 +235,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AADQXIBY
 
-[Document13]
-DocumentPath=BioTemp_pci.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HPSFXSNL
-
-[Document14]
-DocumentPath=PCB1.PcbDoc
+[Document12]
+DocumentPath=PCB_ESP32_mini.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,23 +252,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGHGVLGH
 
-[Document15]
-DocumentPath=..\..\libs\ESP32-C3_SUPERMINI.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BioTemp\Design Rule Check - BioTemp_PCB.html
 DItemRevisionGUID=
@@ -314,6 +262,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument3]
 DocumentPath=Project Outputs for BioTemp\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for BioTemp\Design Rule Check - PCB_ESP32_mini.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1067,12 +1019,6 @@ Type127=1
 Type128=1
 Type129=1
 Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1270,7 +1216,6 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
