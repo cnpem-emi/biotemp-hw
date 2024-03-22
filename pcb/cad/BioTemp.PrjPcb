@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -83,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KBTTWXSW
 
 [Document3]
-DocumentPath=..\..\..\lib_altium\libs\libs\BioTempLib.PcbLib
+DocumentPath=..\..\libs\BioTempLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -97,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IEUMIGKL
+DocumentUniqueId=
 
 [Document4]
 DocumentPath=..\..\..\..\..\Downloads\1776275-2\1776275-2.SchLib
@@ -117,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PMWBFLSN
 
 [Document5]
-DocumentPath=..\..\..\lib_altium\libs\libs\BioTempSchLib.SchLib
+DocumentPath=..\..\libs\BioTempSchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,10 +132,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ATTPRNVL
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H4020FS0016.PcbLib
+DocumentPath=..\..\libs\PEC11H4020FS0016.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -148,10 +149,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AVKKUURB
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\lib_altium\libs\libs\PEC11H-4020F-S0016.SchLib
+DocumentPath=..\..\libs\PEC11H-4020F-S0016.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -165,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BDEZHILL
+DocumentUniqueId=
 
 [Document8]
 DocumentPath=BioTemp_PCB.PcbDoc
@@ -219,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\lib_altium\ESP32 S2 Mini.SchLib
+DocumentPath=..\..\libs\ESP32 S2 Mini.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ODDMUWIB
 
 [Document12]
-DocumentPath=..\..\..\lib_altium\ESP32 S2 Mini.PcbLib
+DocumentPath=..\..\libs\ESP32 S2 Mini.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -285,6 +286,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGHGVLGH
+
+[Document15]
+DocumentPath=..\..\libs\ESP32-C3_SUPERMINI.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BioTemp\Design Rule Check - BioTemp_PCB.html
@@ -1049,6 +1067,12 @@ Type127=1
 Type128=1
 Type129=1
 Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1246,6 +1270,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
